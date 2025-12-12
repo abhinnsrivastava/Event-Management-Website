@@ -1,2 +1,4 @@
-# Event-Management-Website
-This website is a sleek, interactive platform for exploring events, booking services, and viewing client experiences. Built entirely with HTML, CSS, and JavaScript, it blends modern design with essential features like login authentication, booking forms, galleries, and testimonials—creating a complete event experience online.
+I created a multi-page Event Management Website as part of my web development learning journey.
+Built using HTML, CSS, and JavaScript, it includes a login system, booking form, event showcase, interactive gallery, and testimonial section.
+This project helped me strengthen my fundamentals in frontend development, responsive design, and user interface creation.
+It reflects my progress and passion for building clean, functional web experiences.
